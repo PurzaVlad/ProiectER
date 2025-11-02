@@ -1,0 +1,14 @@
+# settings.py
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+
+BACKGROUND_COLOR = (255, 255, 255)  # White
+CIRCLE_COLOR = (0, 0, 255)          # Blue
+OBSTACLE_COLOR = (255, 0, 0)        # Red
+
+CIRCLE_RADIUS = 20
+OBSTACLE_WIDTH = 50
+OBSTACLE_HEIGHT = 50
+
+FPS = 60  # Frames per second
